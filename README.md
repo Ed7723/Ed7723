@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ed7723
 - 👀 I’m interested in learning about anything and everything.
-- 🌱 I’m currently learning web development(HTML,CSS,JS).
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning web development(HTML,CSS,JS, React, MongoDB, express etc..)
+- 💞️ I’m looking to collaborate on web applications that are interesting or cover topics I have not touched on before.
+- 📫 How to reach me, send me an email or message me here!
 
 <!---
 Ed7723/Ed7723 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
